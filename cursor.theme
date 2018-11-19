@@ -1,0 +1,6 @@
+[Icon Theme]
+Inherits=Glow cursor
+Name = Glow cursor 
+Example=default
+Inherits=core
+
